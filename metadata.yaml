@@ -1,0 +1,36 @@
+_repo: El-cisne-de-Vilamorta_71469
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pardo Bazán, Emilia, condesa de
+    aliases:
+    - Pardo Bazan, Emilia, condesa de
+    - Bazán, Emilia Pardo, condesa de
+    - Bazán, Emilia, condesa de Pardo
+    birthdate: 1852
+    deathdate: 1921
+    gutenberg_agent_id: '6152'
+    url: http://www.gutenberg.org/2009/agents/6152
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+    - https://es.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+description: ''
+gutenberg_issued: '2023-08-22'
+identifiers:
+  gutenberg: '71469'
+language: es
+pgterms:marc904: https://archive.org/details/elcisnedevilamo00degoog
+pgterms:marc905: 20210819040245pardobazn
+pgterms:marc906: '1885'
+pgterms:marc907: ES
+production_note: Nahum Maso i Carcases and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from scanned images of public domain
+  material from the Google Books project.)
+publication_note: '  $aMadrid :$bLibrería de Fernando Fé, $c1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: El cisne de Vilamorta
+url: http://www.gutenberg.org/ebooks/71469
